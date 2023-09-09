@@ -1,0 +1,57 @@
+{
+  "title": "Fat, love and mistakes",
+  "description": "Yumeko wakes up after an accident with no memories but with a tremendous desire to live and be happy. Now, she must learn to know herself again and face the fears of her old self.",
+  "artist": "Mamakari",
+  "author": "Mamakari",
+  "cover": "https://i.imgur.com/VFjFhrb.png",
+  "chapters": {
+    "1": {
+      "title": "Happy thoughts, think happy thoughts!",
+      "volume": "1",
+      "last_updated": "1643241575",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/4dN4OfI/"
+      }
+    },
+    "2": {
+      "title": "Beauty is a sin",
+      "volume": "1",
+      "last_updated": "1694300409",
+      "groups": {
+        "Fattyloveranon": "proxy/api/imgur/chapter/LQevRZC"
+      }
+    },
+    "3": {
+      "title": "A hard worker speaks out",
+      "volume": "1",
+      "last_updated": "1667430062",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/BNElP9i/"
+      }
+    },
+    "4": {
+      "title": "He's the vice president",
+      "volume": "1",
+      "last_updated": "1667430122",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/As7YKEO/"
+      }
+    },
+    "5": {
+      "title": "Minami vs Yumeco",
+      "volume": "1",
+      "last_updated": "1667430150",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/vDsQ0d6/"
+      }
+    },
+    "6": {
+      "title": "Extra",
+      "volume": "1",
+      "last_updated": "1669593798",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/MAemCT0/"
+      }
+    }
+  }
+}
